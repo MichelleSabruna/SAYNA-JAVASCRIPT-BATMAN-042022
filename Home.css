@@ -1,0 +1,76 @@
+*{margin: 0;padding:0;}
+.premier{
+    
+    background-image: url('./Assets/Illustrations/Home/Bathome1.png');
+    height: 800px; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul li
+{
+    display: inline-flex;
+}
+h1{
+    margin-left: 90px;
+    color: #FFFF;
+    
+}
+h2{
+    margin-left: 90px;
+    color: #FFFF;
+}
+.lettre{
+    text-align: center;
+}
+.row{
+     margin-left: 65px;
+}
+h3{
+    margin-left: 90px;
+   
+}
+.text{
+    margin-left: 90px;  
+}
+h4{
+    margin-left: 90px; 
+}
+.mots{
+    margin-left: 90px; 
+}
+.milieu{
+    margin-left:40px;
+    
+}
+.loin{
+    margin-left:120px;
+    margin-right: 90px;
+}
+h5{
+    margin-left: 90px;
+}
+.image{
+   text-align: center;
+}
+
+.finaly{
+    text-align: center;
+}
+.couleur{
+    color: blue;
+}
+.flèche{
+    text-align: center;
+}
+.last{
+    text-align: center;
+}
+a{
+    color:#FFFF;
+}
+.elle{
+    margin-left: 90px;
+}
+.menu{
+    margin-right: 100px;
+}

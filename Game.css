@@ -1,0 +1,55 @@
+*{margin: 0;padding:0;}
+.one{
+
+background-image: url('Assets/Illustrations/Game/Batgame1.png');
+height: 800px;
+background-repeat: no-repeat;
+background-size: cover; 
+}
+ul li
+{
+    display: inline-flex;
+}
+h1{
+    margin-left: 90px;
+}
+h2{
+    margin-left: 90px;
+}
+.centre{
+    margin-left: 40px;
+}
+.espace{
+    margin-left: 120px;
+    margin-right: 90px;
+}
+.flèche{
+    text-align: center;
+}
+h3{
+    margin-left: 90px;
+}
+h4{
+    margin-left: 90px;
+}
+.question{
+    margin-left: 90px;
+}
+.image{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+.fin{
+    text-align: center;
+}
+.elle{
+    margin-left: 90px;
+}
+.menu{
+    margin-right: 120px;
+}
+a{
+    color: #FFFF;
+}
